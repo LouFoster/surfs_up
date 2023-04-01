@@ -72,6 +72,7 @@ In this module, as assigned Data Analyst, I will work with the Client/ Investor,
 
 
 By the end of this module, as the assigned Data Analyst I will be able to: 
+
       •	Explain the structures, interactions, and types of data of a provided dataset.
 
       •	Differentiate between SQLite and PostgreSQL databases.
@@ -92,33 +93,44 @@ As Data Analyst, I can compare SQLite databases to a CSV or Excel file: each SQL
 
 2.	Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-•	June Descriptive Stats Temperature and Precipitation
-
-![image](https://user-images.githubusercontent.com/117233641/229251993-ec141424-94c7-4400-b92f-28761b1a33b1.png)
+     A.	Comparing June to December Data the mean temperature in June is ~75 degrees where the mean temperature in December was 71 degrees.
 
 
-•	Visualize summary statistics of June Results.
+        •	June Descriptive Stats Temperature and Precipitation
 
- ![image](https://user-images.githubusercontent.com/117233641/229252018-19227863-23a4-46ce-b869-0ca4002603cf.png)
+      ![image](https://user-images.githubusercontent.com/117233641/229261714-5d7ed75d-3df4-4254-b6d4-e9f2d7b5ba18.png)
 
 
-•	December Descriptive Stats Temperature and Precipitation
+        •	December Descriptive Stats Temperature and Precipitation
 
- ![image](https://user-images.githubusercontent.com/117233641/229252028-4066e528-e845-4862-8e32-0f859c80f672.png)
+      ![image](https://user-images.githubusercontent.com/117233641/229261723-87b42b7f-abe3-4fb3-8a41-a484ad4cfd8d.png)
 
-•	Visualize summary statistics of December Results.
 
-![image](https://user-images.githubusercontent.com/117233641/229252030-fb9b0882-b0ee-430a-8402-e8f64c154183.png)
 
-•	Comparing June to December Data the mean temperature in June is ~75 degrees where the mean temperature in December was 71 degrees.
+B.	The frequency of temperatures recorded in June have a normal, tight bell curve distribution. Whereas the temperatures in December has more variation.
 
-•	The frequency of temperatures recorded in June have a normal, tight bell curve distribution. Whereas the temperatures in December, has more variation.
+        •	Visualize summary statistics of June Results.
+
+ ![image](https://user-images.githubusercontent.com/117233641/229261733-a7c0e8bb-9ab6-4758-bb0f-e64f3058d18e.png)
+
+
+
+       •	Visualize summary statistics of December Results.
+
+ ![image](https://user-images.githubusercontent.com/117233641/229261737-dde245e2-32de-43e0-9103-a4ec5f88e5e4.png)
+
+
 
 
 3.	Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-  Recommendation:  
+Recommendation:  
 
-      •	Create additional charts where the temperature and precipitation data is graphed as a scatterplot with a trendline. 
+•	Create additional charts where the temperature and precipitation data is graphed as a scatterplot with a trendline. 
 
-      •	Track additional variables such as “foot traffic” around a particular location and or, perhaps wind conditions for surfing. In addition, look for correlations to data sets already collected.
+•	Track additional variables such as “foot traffic” around a particular location and or, perhaps wind conditions for surfing. In addition, look for correlations between added variables and current data sets already collected.
+
+•	Comparing the same station temperature in June versus December
+
+•	 ![image](https://user-images.githubusercontent.com/117233641/229261745-240cb891-5b4c-4f26-b2ce-04fd111d9b7b.png)
+
